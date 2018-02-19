@@ -1,0 +1,36 @@
+/* add your CSS here */
+.interestingFact{
+  font-style: italic;
+  }
+.facts{
+    font-weight: bold;
+    text-align: left;
+    padding: 5px;
+  }
+  ul {
+  list-style-type: none;
+}
+.info{
+  border: 1px;
+  border-style: solid;
+  border-color: grey;
+  padding: 1em;
+  width:268px;
+}
+.maindiv{
+  width:305px;
+  height:auto;
+  padding: 1em;
+  border : 1px;
+  border-color: grey;
+  border-style: solid;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, .2);
+  }
+.image{
+  height: 300px;
+  width: 300px;
+  padding: 1px;
+}
+p{
+  text-align: justify;
+}
